@@ -1,2 +1,2 @@
 # Workshop
-Materials for the umea workshop
+Materials for the MNNIT workshop
